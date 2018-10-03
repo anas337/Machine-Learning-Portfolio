@@ -8,7 +8,7 @@ The Boston housing market is highly competitive, and you want to be the best rea
 
 In this project, I applied basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. First of all I explored the data to obtain important features and descriptive statistics about the dataset. Next,  I splitted the data into testing and training subsets, and determined a suitable performance metric for this problem.I analyzed performance graphs for a learning algorithm with varying parameters and training set sizes. This facilitated to pick the optimal model that best generalizes for unseen data. Finally, I tested this optimal model on a new sample to compare the predicted selling prices to the previous statistics.
 
-[image2]: ./Description-Images/learning-curves.png 
+[image2]: "./Description-Images/learning-curves.png"
 [image3]: ./Description-Images/complexity-curve.png 
 [image4]: ./Description-Images/capture.png 
 
