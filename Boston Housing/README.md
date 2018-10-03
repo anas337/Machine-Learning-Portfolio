@@ -32,16 +32,16 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ## Starting the Project
 
-For this project, you can find the `boston_housing` folder containing the necessary project files on the [Machine Learning projects GitHub](https://github.com/anass337/). 
+For this project, you can find the `boston_housing` folder containing the necessary project files on the [Machine-Learning-Portfolio](https://github.com/anas337/Machine-Learning-Portfolio/). 
 
-This project contains two files:
+This project contains four files and one directory:
+- `Description-Images`(Directory): It contains images used in the notebook and README files.
+- `Boston Housing.ipynb`: This is jupyter notebook file which contains python code, visualizations and detailed analysis of each step performed in this project. 
+- `Boston Housing.html`: An html version of the previous notebook.
+- `housing.csv`: The Boston Housing Dataset.
+- `README.md` : It contains a short description of this project and steps to run it successfully.
 
-- `boston_housing.ipynb`: This is jupyter notebook file which contains python code, visualizations and detailed analysis of each step performed in this project. 
-- `boston_housing.html`: An html version of the previous file to facilitate comparison.
-- `housing.csv`: The project dataset. You'll load this data in the notebook.
-- `README.md` : it contains a short description of this project and steps to run it successfully.
-
-In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook boston_housing.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. A **README** file has also been provided with the project files which may contain additional necessary information or instruction to run the project successfully
+In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook boston_housing.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. 
 
 ## Run
 
