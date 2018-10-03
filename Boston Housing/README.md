@@ -25,7 +25,7 @@ This project uses the following software and Python libraries:
 - [NumPy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-- [matplotlib](http://matplotlib.org/)
+- [matplotlib](http://matplotlib.org/) 
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
