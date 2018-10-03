@@ -1,8 +1,8 @@
 [//]: # (Image References)
 [image1]: ./Description-Images/Houses.png "image1"
-[image2]: ./Description-Images/learning-curves.png "image2"
-[image3]: ./Description-Images/complexity-curve.png "image3"
-[image4]: ./Description-Images/capture.png "image4"
+[image2]: ./Description-Images/learning-curves.PNG "image2"
+[image3]: ./Description-Images/complexity-curve.PNG "image3"
+[image4]: ./Description-Images/capture.PNG "image4"
 
 # Project: Predicting Boston Housing Prices
 
