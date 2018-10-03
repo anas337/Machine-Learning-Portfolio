@@ -2,7 +2,7 @@
 [image1]: ./Description-Images/Houses.png "image1"
 [image2]: ./Description-Images/learning-curves.PNG "image2"
 [image3]: ./Description-Images/complexity-curve.PNG "image3"
-[image4]: ./Description-Images/capture.PNG "image4"
+[image4]: ./Description-Images/Capture.PNG "image4"
 
 # Project: Predicting Boston Housing Prices
 
