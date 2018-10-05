@@ -91,7 +91,7 @@ The PyGame library can in some cases require a bit of troubleshooting to work co
 
 ![image3]
 
-## [Analysis Notebook](https://github.com/anas337/Machine-Learning-Portfolio/tree/master/smartcab/smartcab.ipynb) 
+[Analysis Notebook](https://github.com/anas337/Machine-Learning-Portfolio/tree/master/smartcab/smartcab.ipynb) 
 Please visit the notebook linked above to follow step-by-step the analysis at various stages to obtain a clear vision about this project.
 
 ## Definitions
